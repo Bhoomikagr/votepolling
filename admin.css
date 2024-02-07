@@ -1,0 +1,33 @@
+/* AdminLogin.css */
+
+/* Center the login form */
+#admin {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 300px;
+  }
+  
+  /* Style the input fields */
+  input {
+    margin: 8px;
+    padding: 10px;
+    width: 200px;
+  }
+  
+  /* Style the login button */
+  button {
+    background-color: #4caf50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+  }
+  
+  /* Hover effect for the button */
+  button:hover {
+    background-color: #45a049;
+  }
+  
